@@ -10,3 +10,5 @@ Understanding the cutomers on the basis of their purchasing habits.
 Understanding the purchasing habits according to Age groups, occuptation, City_Categories.
 The segmented groups above will then be used to apply models which we will use to predict the purchase spending for a particular customer. Quickly, lets dive in by understanding the data.
 Specifically, the problem is a regression problem where we are trying to predict the dependent variable (the amount of purchase) with the help of the information contained in the other variables.
+
+My first commit
