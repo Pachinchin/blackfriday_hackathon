@@ -4,7 +4,7 @@ In this repo you will find the algorithms to for blackfriday sales prediction fo
 
 ## Business Problem
 
-Company ABC Private Limited wants to understand customer purchase behavior across product of different categories. An accurate prediction of the purchasing amount for the next big sale is high priority question. It will also be interesting to find out why customers make certain purchases.
+Company ABC Private Limited wants to understand customer purchase behavior across product of different categories. An accurate prediction of the purchasing amount for each customer is needed to help then create personalzed offer. They will be interested to know why customers make certain purchases.
 
 ## Data problem
 (As we know the business problem need to be converted into data problems)
@@ -21,10 +21,10 @@ They have shared purchase summary of various customers for the selected high-vol
 * User_ID	User ID
 * Product_ID	Product ID
 * Gender	Sex of User
-* Age	Age in bins
+* Age	Agein bins (Masked)
 * Occupation	Occupation (Masked)
-* City_Category	Category of the City (A,B,C)
-* Stay_In_Current_City_Years	Number of years stay in current city
+* City_Category	Category of the City (A,B,C) (Masked)
+* Stay_In_Current_City_Years	Number of years stay in current city 
 * Marital_Status	Marital Status
 * Product_Category_1	Product Category (Masked)
 * Product_Category_2	Product may belongs to other category also (Masked)
